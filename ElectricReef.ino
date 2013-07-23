@@ -1,7 +1,7 @@
 //---------------------------------------------------------
-// Stilo v.3.0 Aquarium Controller
-//
-// http://code.google.com/p/stilo/
+// Electric Reef Aquarium Controller
+// https://github.com/philspins/ElectricRee
+// Based on the Stilo controller: http://code.google.com/p/stilo/
 //---------------------------------------------------------
 //
 // Libraries used:
